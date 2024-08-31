@@ -1,5 +1,5 @@
 <!-- markdownlint-disable-next-line -->
-<p align="center">
+<p align="center" style="margin-top:16px;">
   <a href="https://ui.batchnepal.com/" rel="noopener" target="_blank"><img width="150" height="133" src="https://i.ibb.co/Rjng2Jt/batch-ui-logo.png" alt="MUI Core logo"></a>
 </p>
 
@@ -19,7 +19,7 @@
 
 ### Npm Package
 
-MeroUI is available as an [npm package](https://www.npmjs.com/package/@batchui/react) and can be installed directly into your react project
+BatchUI is available as an [npm package](https://www.npmjs.com/package/@batchui/react) and can be installed directly into your react project
 
 **npm:**
 
