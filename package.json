@@ -1,6 +1,6 @@
 {
   "name": "@batchui/react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The Open Source UI library for React & Next.js perfectionists crafted by BatchNepal.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",

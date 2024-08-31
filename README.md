@@ -54,7 +54,7 @@ Use `@latest` for the latest stable release.
 
 See the full list of [our backers](https://ui.batchnepal.com/sponsors/).
 
-## Getting started with MeroUI
+## Getting started with BatchUI
 
 Here is an example of a basic app using BatchUi's `Button` component:
 
